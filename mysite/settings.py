@@ -25,7 +25,7 @@ SECRET_KEY = 'hym&)nthui_j@jz(4d=yef4r4#a*r%s@ejg3u&3g53$8n=36o+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [vadym123.pythonanywhere.com]
+ALLOWED_HOSTS = ['vadym123.pythonanywhere.com',]
 
 
 # Application definition
